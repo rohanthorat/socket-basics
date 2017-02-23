@@ -1,4 +1,4 @@
-# socket-basics
+# socketio based chat app
 A socketio based chat app in nodejs.
 
 Created a socket-io chat application on Node JS and Moment JS.
